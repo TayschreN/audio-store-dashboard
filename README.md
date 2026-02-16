@@ -1,8 +1,9 @@
 # Performance de Vendas - Produtos de Áudio
 
-### Este projeto apresenta um **Dashboard de Análise de Vendas** desenvolvido no Power BI para uma empresa fictícia, com foco na visualização estratégica de receita, segmentação de clientes e análise de descontos.
+Este projeto apresenta um **Dashboard de Análise de Vendas** desenvolvido no Power BI para uma empresa fictícia, com foco na visualização estratégica de receita, segmentação de clientes e análise de descontos.
 
-###  O objetivo foi transformar dados brutos em insights visuais claros, facilitando a tomada de decisão baseada em dados.
+O objetivo foi transformar dados brutos em insights visuais claros, facilitando a tomada de decisão baseada em dados.
+
 ---
 ![Dashboard Preview](Dashboard.jpg)
 ---
@@ -58,3 +59,9 @@ Identificação dos principais mercados:
 - Mercados da América do Norte lideram o faturamento.
 
 ---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://youtu.be/6MOyrQLCi3w?si=9ZfU8gPVN53ZTw1G.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
